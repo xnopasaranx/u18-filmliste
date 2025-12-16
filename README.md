@@ -89,3 +89,26 @@ Hier schreibt Benjamin der Schreckliche!
 BABO Hüseyin Auch da ;)
 
 TEST 
+
+
+Gute Filme
+  von
+Benjamin dem Schrecklichen
+
+Weapons
+Hereditary
+Orphen
+Get Out
+Midsommer
+Split
+The Menu
+Bodies Bodies Bodies
+Black Phone
+Run
+Unknown User Darkweb
+Knock at the Cabin
+Happy Deathday
+Heretic
+The Perfection
+The Invitation
+Barbarian
