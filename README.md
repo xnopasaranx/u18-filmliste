@@ -8,24 +8,61 @@ git uebungs repo mit kollaborativer filmliste
 - eine Filmsammlung erstellen und zusammen wachsen lassen
 - .gitignore Datei erklaeren
 - gucken ob alles klappt
+                                       
 
-Hallo U 18
+Gute Filme
+  von
+Benjamin dem Schrecklichen
 
-test 1 2 3                                                 
+
 
 
  F I L M E
 
- 
-
-
-
-
+- The Dark Knight
+- Kevin - Allein zu Haus
+- Die Truman Show
+- 22 Jump Street
+- Ted
+- Rush Hour
+- Fight Club
+- Pulp Fiction
+- Tucker and Dale vs Evil
+- Hangover
+- Superbad
+- Happy Gilmore
+- Weapons
+- Hereditary
+- Orphen
+- Get Out
+- Midsommer
+- Split
+- The Menu
+- Bodies Bodies Bodies
+- Black Phone
+- Run
+- Unknown User Darkweb
+- Knock at the Cabin
+- Happy Deathday
+- Heretic
+- The Perfection
+- The Invitation
+- Barbarian
 
 
 
  S E R I E
 
+-Breaking Bad
+-Dexter
+-Goliath
+-Ozark
+-Sherlock
+-The Walking Dead
+-Black Mirror
+-True Detective
+-Rick and Morty
+-Better Call Saul
 
 
 
@@ -230,9 +267,6 @@ This is instant chaos!
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@
 
-Film 2025
-
-
 
   .::  .::.  ::.  ::.  ::.  ::.  .::  .::  .::  .::  .::.  ::.  ::.  ::.  :::  .::  .::  .::. .::.  
  .::. ..:.  .:.  .:.. .::. .::. .::. .::. .::. ..:.  .::  .:.. .::. .::. .::. .::. .::.  ::. ..:.  .:.
@@ -282,54 +316,3 @@ Film 2025
  ....................................................................................................
   .::. .::. .::. .::.  ::. ..:.  .:.  .:.. .::. .::. .::. .::. .::.  .:.  .:.  .:.. .::. .::. .::. .
  ::.  ::.  :::  .::  .::  .::  .::.  ::.  ::.  ::.  :::  .::  .::  .::  .::   ::.  ::.  ::.  ::.  :::
-
--------------
-Filme/Serien
--------------
--The Dark Knight
--Kevin - Allein zu Haus
--Die Truman Show
--22 Jump Street
--Ted
--Rush Hour
--Fight Club
--Pulp Fiction
--Tucker and Dale vs Evil
--Hangover
--Superbad
--Happy Gilmore
--------------
--Breaking Bad
--Dexter
--Goliath
--Ozark
--Sherlock
--The Walking Dead
--Black Mirror
--True Detective
--Rick and Morty
--Better Call Saul
-
-
-
-Gute Filme
-  von
-Benjamin dem Schrecklichen
-
-Weapons
-Hereditary
-Orphen
-Get Out
-Midsommer
-Split
-The Menu
-Bodies Bodies Bodies
-Black Phone
-Run
-Unknown User Darkweb
-Knock at the Cabin
-Happy Deathday
-Heretic
-The Perfection
-The Invitation
-Barbarian
