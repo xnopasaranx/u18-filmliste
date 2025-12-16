@@ -1,6 +1,8 @@
 # u18-filmliste
 git uebungs repo mit kollaborativer filmliste
 
+...
+
 # TODO:
 - Code mit git als commit pushen der halbwegs Sinn ergibt
 - branches mal angucken und einen merge durchfuehren
@@ -9,26 +11,9 @@ git uebungs repo mit kollaborativer filmliste
 - .gitignore Datei erklaeren
 - gucken ob alles klappt
 
-Hallo U 18
 
-test 1 2 3                                                 
- 
-                                                                              
-Hier schreibt Benjamin der Schreckliche!
-
-BABO Hüseyin Auch da ;)
-
-
-BABO wieder zu sehen ;))
-
-TEST ##2## #### ####
-
-
-Eddy The Gray will make you pay for your treason and make you known out the kingdom as a witless worm!
-
-serie
-
-TEST ##2##
+TNs Liste mit coolen Filmen:
+- Call me by your name 
 
 
 
