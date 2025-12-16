@@ -94,6 +94,8 @@ Filme/Serien
 -Fight Club
 -Pulp Fiction
 -Tucker and Dale vs Evil
+-Hangover
+-Superbad
 -------------
 -Breaking Bad
 -Dexter
