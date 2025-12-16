@@ -85,17 +85,23 @@ TEST ##2##
 -------------
 Filme/Serien
 -------------
+-The Dark Knight
+-Kevin - Allein zu Haus
+-Die Truman Show
+-22 Jump Street
+-Ted
+-Rush Hour
+-Fight Club
+-Pulp Fiction
+-Tucker and Dale vs Evil
+-------------
 -Breaking Bad
 -Dexter
+-Goliath
+-Ozark
 -Sherlock
 -The Walking Dead
 -Black Mirror
 -True Detective
 -Rick and Morty
 -Better Call Saul
--------------
--The Dark Knight
--Kevin - Allein zu Haus
--Die Truman Show
--Fight Club
--Tucker and Dale vs Evil
