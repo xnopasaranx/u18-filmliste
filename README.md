@@ -85,13 +85,17 @@ TEST ##2##
 -------------
 Filme/Serien
 -------------
-
 -Breaking Bad
+-Dexter
 -Sherlock
--Fight Club
--The Dark Knight
--Tucker and Dale vs Evil
+-The Walking Dead
+-Black Mirror
 -True Detective
 -Rick and Morty
 -Better Call Saul
+-------------
+-The Dark Knight
+-Kevin - Allein zu Haus
 -Die Truman Show
+-Fight Club
+-Tucker and Dale vs Evil
