@@ -30,11 +30,6 @@ test 1 2 3
 
 
 
-
-
-
-
-Horro / Drame
                                                                               
 Hier schreibt Benjamin der Schreckliche!
 
