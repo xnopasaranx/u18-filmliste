@@ -53,16 +53,16 @@ Benjamin dem Schrecklichen
 
  S E R I E
 
--Breaking Bad
--Dexter
--Goliath
--Ozark
--Sherlock
--The Walking Dead
--Black Mirror
--True Detective
--Rick and Morty
--Better Call Saul
+- Breaking Bad
+- Dexter
+- Goliath
+- Ozark
+- Sherlock
+- The Walking Dead
+- Black Mirror
+- True Detective
+- Rick and Morty
+- Better Call Saul
 
 
 
