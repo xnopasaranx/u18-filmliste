@@ -7,6 +7,7 @@ git uebungs repo mit kollaborativer filmliste
 - merge konflikte aufloesen
 - eine Filmsammlung erstellen und zusammen wachsen lassen
 - .gitignore Datei erklaeren
+- gucken ob alles klappt
 
 Hallo U 18
 
