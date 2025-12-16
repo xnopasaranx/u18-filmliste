@@ -18,11 +18,8 @@ Hier schreibt Benjamin der Schreckliche!
 
 BABO Hüseyin Auch da ;)
 
-<<<<<<< HEAD
 TEST ##2## #### ####
 
-=======
 Eddy The Gray will make you pay for your treason and make you known out the kingdom as a witless worm!
 
 TEST ##2##
->>>>>>> 79d69b2c1d6ddb69c8e462af1ac5d833e2d94bdf
